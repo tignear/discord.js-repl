@@ -13,6 +13,7 @@
   "dependencies": {
     "discord.js-v11": "npm:discord.js@11",
     "discord.js-v12": "npm:discord.js@12",
+    "discord.js-master": "discordjs/discord.js#master",
     "inquirer": "^7.1.0",
     "module-alias": "^2.2.2",
     "preferences": "caffeinalab/preferences#7469451"
